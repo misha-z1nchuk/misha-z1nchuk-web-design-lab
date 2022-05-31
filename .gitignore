@@ -1,2 +1,7 @@
-lab2/.idea
 .idea
+server/.env
+server/dev.sqlite
+server/node_modules
+
+lab3/client/node_modules
+lab3/server/node_modules
